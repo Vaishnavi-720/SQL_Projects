@@ -19,6 +19,7 @@ As a Data Analyst, I am passionate about leveraging SQL to uncover valuable insi
 ### Projects
 
 1. Medical History Data Analysis
+2. IMDB Movies Analysis
 
 ### Technologies Used
 SQL: The primary language used for querying and managing databases.
